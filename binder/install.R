@@ -10,7 +10,7 @@ install.packages("readxl")
 install.packages("vietnameseConverter")
 install.packages("stringi")
 install.packages("factoextra")
-
+install.packages("tidyverse")
 
 
 
