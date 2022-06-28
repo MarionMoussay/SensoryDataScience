@@ -1,5 +1,4 @@
 install.packages("dplyr")
-install.packages("ggplot2")
 install.packages("gridExtra")
 install.packages("FactoMineR")
 install.packages("SensoMineR")
@@ -11,6 +10,7 @@ install.packages("vietnameseConverter")
 install.packages("stringi")
 install.packages("factoextra")
 install.packages("tidyverse")
+install.packages("broom")
 
 
 
